@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 - Mathematics Ph.D. (Florida State University, May 2023) My dissertation concerned modelling insider trading in the stock market using a continuous time Kyle-Back model with stochastic liquidity.
 - Full-stack programmer (Python, HTML/CSS/Javascript, Typescript, Node, Flask, FastAPI, RESTful APIs, GraphQL, MongoDB, PostgreSQL) seeking full-time work in the discipline.
