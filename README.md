@@ -3,7 +3,7 @@
 - Mathematics Ph.D. (Florida State University, May 2023) My dissertation concerned modelling insider trading in the stock market using a continuous time Kyle-Back model with stochastic liquidity.
 - Full-stack programmer (Python, HTML/CSS/Javascript, Typescript, Node, Flask, FastAPI, RESTful APIs, GraphQL, MongoDB, PostgreSQL) seeking full-time work in the discipline.
 - Art and music enthusiast.
-- I made some [cool video games](https://redlaserbm.itch.io/) in my free time.
+- I made some [cool](https://redlaserbm.itch.io/prisonbreak) [video](https://redlaserbm.itch.io/sukuisoko) [games](https://redlaserbm.itch.io/temmie-is-trapped) in the past.
 
 Note: I also own the account [bmostowski1996](https://github.com/bmostowski1996) which I intend to merge with this one in August.
 <!--
