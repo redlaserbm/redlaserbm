@@ -1,6 +1,6 @@
 ## About Me
 
-- Mathematics Ph.D. (Florida State University, May 2023) My dissertation concerned modelling insider trading in the stock market using a continuous time Kyle-Back model with stochastic liquidity.
+- Mathematics Ph.D. (Florida State University, May 2023) My dissertation concerned the modelling of insider trading in the stock market using a Kyle-Back model with stochastic liquidity.
 - Full-stack programmer (Python, HTML/CSS/Javascript, Typescript, Node, Flask, FastAPI, RESTful APIs, GraphQL, MongoDB, PostgreSQL) seeking full-time work.
 - [Music-making](https://www.youtube.com/watch?v=RaII-cbllus) enthusiast.
 - I made some [cool](https://redlaserbm.itch.io/prisonbreak) [video](https://redlaserbm.itch.io/sukuisoko) [games](https://redlaserbm.itch.io/temmie-is-trapped) in the past.
