@@ -5,7 +5,6 @@
 - [Music-making](https://www.youtube.com/watch?v=RaII-cbllus) enthusiast.
 - I made some [cool](https://redlaserbm.itch.io/prisonbreak) [video](https://redlaserbm.itch.io/sukuisoko) [games](https://redlaserbm.itch.io/temmie-is-trapped) in the past.
 
-Note: I also own the account [bmostowski1996](https://github.com/bmostowski1996) which I intend to merge with this one in August.
 <!--
 **redlaserbm/redlaserbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
