@@ -1,7 +1,7 @@
 ## About Me
 
 - Mathematics Ph.D.
-- Full-stack programmer (Python, HTML/CSS/Javascript, Typescript, Node, Flask, FastAPI, RESTful APIs, GraphQL, MongoDB, PostgreSQL) seeking full-time work.
+- "Anything goes" programmer
 - [Music-making](https://www.youtube.com/watch?v=RaII-cbllus) enthusiast.
 - I made some [cool](https://redlaserbm.itch.io/prisonbreak) [video](https://redlaserbm.itch.io/sukuisoko) [games](https://redlaserbm.itch.io/temmie-is-trapped) in the past.
 
